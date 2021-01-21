@@ -2437,7 +2437,7 @@ SOURCES = {
 }
 
 # soundbar product names
-SOUNDBARS = ("playbase", "playbar", "beam", "sonos amp", "arc")
+SOUNDBARS = ("playbase", "playbar", "beam", "sonos amp", "arc", "arc sl")
 
 
 if config.SOCO_CLASS is None:
